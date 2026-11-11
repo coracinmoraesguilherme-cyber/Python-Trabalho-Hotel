@@ -4,11 +4,11 @@ Trabalho de Programação Orientada a Objetos em Python. O sistema simula a rece
 
 ## Integrantes
 
--   1- Danilo Nascimento | 
-    2- Guilherme C Moraes | 
-    3- Luan Victor dos Anjos | 
-    4- Lucas Martins | 
-    5- Enzo Barbarito | 
+- 1- Danilo Nascimento | 
+- 2- Guilherme C Moraes | 
+- 3- Luan Victor dos Anjos | 
+- 4- Lucas Martins | 
+- 5- Enzo Barbarito | 
 
 ## Como executar
 
