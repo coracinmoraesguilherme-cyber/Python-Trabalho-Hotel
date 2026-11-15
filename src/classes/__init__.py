@@ -1,0 +1,1 @@
+"""Classes de domínio do sistema de gestão hoteleira."""
